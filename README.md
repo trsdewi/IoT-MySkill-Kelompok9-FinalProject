@@ -14,6 +14,7 @@ HACHI juga memiliki fitur notifikasi telegram, dimana notifikasi telegram ini ti
 ![image](https://github.com/trsdewi/IoT-MySkill-Kelompok9-FinalProject/assets/76573977/cff2501e-37b0-46b4-8a06-8a24224db8c1)
 
 -Tampilan Telegram Bot
+
 ![image](https://github.com/trsdewi/IoT-MySkill-Kelompok9-FinalProject/assets/76573977/e7a7bc88-392c-4343-8b88-f9766aad1d3f)
 
 -Tampilan Telegram Group
