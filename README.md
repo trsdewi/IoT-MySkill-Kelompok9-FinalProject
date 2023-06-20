@@ -12,15 +12,22 @@ HACHI juga memiliki fitur notifikasi telegram, dimana notifikasi telegram ini ti
 # Tampilan
 - Tampilan Blynk
 ![image](https://github.com/trsdewi/IoT-MySkill-Kelompok9-FinalProject/assets/76573977/cff2501e-37b0-46b4-8a06-8a24224db8c1)
+
 -Tampilan Telegram Bot
 ![image](https://github.com/trsdewi/IoT-MySkill-Kelompok9-FinalProject/assets/76573977/e7a7bc88-392c-4343-8b88-f9766aad1d3f)
+
 -Tampilan Telegram Group
 ![image](https://github.com/trsdewi/IoT-MySkill-Kelompok9-FinalProject/assets/76573977/43f509df-90aa-4d21-8df1-a34f84f0aa48)
 
 # Pengembang
 Kelompok 9 - IoT MySkill
+
 A31 - Siti Nadzrin Husnul Ma’ani 
+
 A35 - Aurellia Qasthari Ravi
+
 A29 - Nihlatun Hasanah
+
 A45 - Syafarifqi Falih Putra
+
 A26	- Luh Gede Tresna Dewi
